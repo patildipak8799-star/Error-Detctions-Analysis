@@ -52,10 +52,10 @@ This project analyzes All task from data to identify Error trends, defect trend,
 
 ## 📊 Key Insights
 
-- Sales increased by 25% during festive seasons.
-- Technology category generated the highest revenue.
-- West region had the highest profit margin.
-- Repeat customers contributed more than 40% of total sales.
+- Sales increased by 27.78% during September month.
+- Departement is generated the highest Defects.
+- Office location Austalia had the highest Quality Score.
+- Repeat Manager contributed more than 40% of total Quality Score.
 
 ---
 
