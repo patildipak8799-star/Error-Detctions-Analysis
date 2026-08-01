@@ -52,7 +52,7 @@ This project analyzes All task from data to identify Error trends, defect trend,
 
 ## 📊 Key Insights
 
-- Sales increased by 27.78% during September month.
+- defects task is increased by 27.78% during September month.
 - Departement is generated the highest Defects.
 - Office location Austalia had the highest Quality Score.
 - Repeat Manager contributed more than 40% of total Quality Score.
