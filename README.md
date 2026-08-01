@@ -59,16 +59,6 @@ This project analyzes All task from data to identify Error trends, defect trend,
 
 ---
 
-## 📷 Dashboard / Visualizations
-
-(Add screenshots here)
-
-Example:
-
-![Dashboard](images/dashboard.png)
-
----
-
 ## 🚀 How to Run
 
 1. Publish The Report on Power BI Service
