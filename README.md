@@ -1,2 +1,3 @@
-# Error-Detctions-Analysis
-Employee Dataset to find  Defect and Errors numbers in percent
+Project Title : Error-Detctions-Analysis
+Technology & Tool : Power BI Desktop
+
